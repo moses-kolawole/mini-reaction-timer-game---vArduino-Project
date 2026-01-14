@@ -44,7 +44,7 @@ The Arduino sketch for this project is located in the [code/ directory](code/min
 A demonstration video showing the game in action is included in this repository.
 
 📹 **Project Demonstration:**  
-[Click here to watch/download the demo video](video/)
+[Click here to watch/download the demo video](https://youtu.be/EFLJiie3IBo)
 
 *(If the video does not preview directly on GitHub, please download it using the link above.)*
 
